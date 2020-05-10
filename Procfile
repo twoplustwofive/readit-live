@@ -1,1 +1,1 @@
- web: gunicorn Readit --log--file - 
+ web: gunicorn Readit.wsgi 
